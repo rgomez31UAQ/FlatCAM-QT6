@@ -50,4 +50,4 @@ $ python ./FlatCAM.py
 - RadioSet has incorrect handling for checking whether is has been checked.
 
 
-There are many additional bugs! It's a large amount of code and various parts don't seem to work or don't seem to work quite correctly. Pull requests more than welcome!
+There are many additional bugs! It's a large amount of code and various parts don't seem to work or don't seem to work quite correctly. Pull requests more than welcome!# FlatCAM-QT6

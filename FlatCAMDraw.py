@@ -1,4 +1,4 @@
-from numpy import arctan2, Inf, array, asarray, sqrt, sign, dot, float32, transpose
+from numpy import arctan2, inf as Inf, array, asarray, sqrt, sign, dot, float32, transpose 
 from numpy.linalg import norm, solve
 from PyQt6.QtCore import QObject, QTimer
 from PyQt6.QtGui import QIcon, QDoubleValidator

@@ -603,7 +603,7 @@ class App(QObject):
         self.shell.append_output("FlatCAM %s\n(c) 2014-2015 Juan Pablo Caram\n\n" % self.version)
         self.shell.append_output("Type help to get started.\n\n")
 
-        self.init_tcl()
+        #self.init_tcl()
 
         self.ui.shell_dock = QDockWidget("FlatCAM TCL Shell")
         self.ui.shell_dock.setWidget(self.shell)
