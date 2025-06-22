@@ -51,3 +51,4 @@ $ python ./FlatCAM.py
 
 
 There are many additional bugs! It's a large amount of code and various parts don't seem to work or don't seem to work quite correctly. Pull requests more than welcome!# FlatCAM-QT6
+# FlatCAM-QT6
